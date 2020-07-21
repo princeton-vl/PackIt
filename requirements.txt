@@ -1,0 +1,8 @@
+tensorflow-gpu==1.4.1
+Pillow==5.2.0
+gym==0.10.5
+matplotlib
+grpcio
+scipy==1.1.0
+cloudpickle==0.5.6
+tqdm
