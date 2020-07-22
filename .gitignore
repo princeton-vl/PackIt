@@ -1,0 +1,28 @@
+*.swp
+*.pyc
+*.pkl
+*.py~
+*.bak
+.pytest_cache
+.DS_Store
+.idea
+.coverage
+.coverage.*
+__pycache__/
+_build/
+*.egg-info
+.cache
+
+# for the unity ml-agents
+unity/envs/*
+*unity-environment.log
+
+# for jupyter notebook and development
+*.ipynb_checkpoints
+# logging
+log/*
+
+# directories
+output/
+results/
+data/
