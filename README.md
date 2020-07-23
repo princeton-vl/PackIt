@@ -1,6 +1,6 @@
 <img src="images/packit.gif" align="right" width="30%"/>
 
-**PackIt: A Virtual Environment for Geometric Planning**
+[**PackIt: A Virtual Environment for Geometric Planning**](http://arxiv.org/abs/2007.11121)   
 [Ankit Goyal](http://imankgoyal.github.io), [Jia Deng](https://www.cs.princeton.edu/~jiadeng/)  
 *International Conference on Machine Learning (ICML), 2020*
 ```
