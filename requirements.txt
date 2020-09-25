@@ -1,4 +1,4 @@
-tensorflow-gpu==1.4.1
+tensorflow-gpu==1.15.4
 Pillow==5.2.0
 gym==0.10.5
 matplotlib
