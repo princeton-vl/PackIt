@@ -3,14 +3,6 @@
 [**PackIt: A Virtual Environment for Geometric Planning**](http://arxiv.org/abs/2007.11121)   
 [Ankit Goyal](http://imankgoyal.github.io), [Jia Deng](https://www.cs.princeton.edu/~jiadeng/)  
 *International Conference on Machine Learning (ICML), 2020*
-```
-@inproceedings{goyal2020packit,
-  title={PackIt: A Virtual Environment for Geometric Planning},
-  author={Goyal, Ankit and Deng, Jia},
-  booktitle={International Conference on Machine Learning},
-  year={2020},
-}
-```
 
 ## Getting Started
 
@@ -113,3 +105,13 @@ ALSA lib pcm.c:2565:(snd_pcm_open_noupdate) Unknown PCM default
 
 ## Acknowledgment
 This repository uses code from [ML-Agents](https://github.com/Unity-Technologies/ml-agents/tree/0.4.0) and [stable-baselines](https://github.com/hill-a/stable-baselines).
+
+If you find our research useful, consider citing it:
+```
+@inproceedings{goyal2020packit,
+  title={PackIt: A Virtual Environment for Geometric Planning},
+  author={Goyal, Ankit and Deng, Jia},
+  booktitle={International Conference on Machine Learning},
+  year={2020},
+}
+```
