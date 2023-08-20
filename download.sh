@@ -8,12 +8,12 @@ wgetgdrive(){
 }
 
 mkdir tmp
-wgetgdrive 1x6GbwLDSBcwmxSvhL1SY7oIW5x118sDF tmp/env.zip
-wgetgdrive 1kTOcgB0Mz082v0eEkUNDMjVT2Bj1_E9s tmp/env_viz.zip
-wgetgdrive 11aT7Lw1asQXYhBZUPSEt3Q7NxWhHUXZ1 tmp/env_viz_mac.zip
-wgetgdrive 132G9nqMpOkTYfMaUihLpyocOp1ezx2On tmp/model.zip
-wgetgdrive 1DD7bdRJSPbEIXe8qXzrD3lEz0nzfbGbU tmp/data.zip
-wgetgdrive 1MLZ8g0w-TcFtwSMxwv8CwPpvTjV5zeJ9 tmp/results.zip
+wgetgdrive 11rTpF0uiBUHGqbeDa96noIXCM3dYWkOz tmp/env.zip
+wgetgdrive 1cR6svpZGYaQS8DnIHQ2hFknbFXpGaoBj tmp/env_viz.zip
+wgetgdrive 1usvzw2t-WijbXr9p4CnwrYIcnKf3AEdM tmp/env_viz_mac.zip
+wgetgdrive 1WdaSNlpsGdcwtGO5sKICSbgrZnYzT2mE tmp/model.zip
+wgetgdrive 1VpwiAx0i1sanmqHLf1TIe9re5LBVaPQW tmp/data.zip
+wgetgdrive 1ntgGFZRKdC8BUAwUXMttnhyzL1dcKJ2J tmp/results.zip
 
 mkdir unity/envs
 unzip tmp/env.zip -d unity/envs
